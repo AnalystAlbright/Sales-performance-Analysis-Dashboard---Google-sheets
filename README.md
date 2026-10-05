@@ -2,7 +2,7 @@
 Sales Performance Analysis Dashboard
 
 # PROJECT OVERVIEW
-I analyzed a sales dataset using Google sheets to understand sales performance,and performance across different states.
+I analyzed a sales dataset using Google sheets to understand sales performance,and performance across different states for a period of 3 months .
 The project focused on transforming raw business data into clear insights that could support better sales and business decisions.
  
 # BUSINESS PROBLEM
