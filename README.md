@@ -6,6 +6,7 @@ I analyzed a sales dataset using Google sheets to understand sales performance,a
 The project focused on transforming raw business data into clear insights that could support better sales and business decisions.
  
 # BUSINESS PROBLEM
+
 The business needed a simple way to understand:
 - Overall sales and order performance for a 3 months window.
 - Which states were performing best.
@@ -50,8 +51,6 @@ I followed a structured data analysis process:
 - Comparison of sales performance across different business segments
 
 
-
-
 # DATA PRIVACY AND PII PROTECTION
 
 Because customer-related information was included in the original dataset, i treated privacy as an important part of the analysis.
@@ -64,6 +63,7 @@ Measures taken included:
 - No personally identifiable information (PII) was intentionally published in the portfolio
 
 # KEY RESULTS
+
 - Total sales: 329
 - Total customer: 144
 - Total orders: 237
@@ -110,7 +110,7 @@ deserve continued sales and customer-engagement attention
 Sugar tea recorded the strongest product performance in the dataset.
 This indicates strong customer demand and makes it a potential priority product for stock planning and promotional activities.
 
--Customer ID 1103 was the highest-value customer
+- Customer ID 1103 was the highest-value customer
 Customer ID 1103 recorded the highest level of patronage among the customers analyzed. This customer represents an important customer 
 segment for retention and relationship management
 
@@ -119,7 +119,7 @@ segment for retention and relationship management
   Abia State, While products including ULCER tea, TEA for men, B.P tea also showed notable demand patterns.
   This indicates that customer preferences may vary by location and that a single sales strategy may not work equally well across all markets.
 
-  # BUSINESS RECOMMENDATIONS
+ # BUSINESS RECOMMENDATIONS
 
 Based on these findings, i would recommend that the business:
 - Strengthen the lagos market.
