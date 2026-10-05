@@ -12,7 +12,21 @@ The business needed a simple way to understand:
 - Which products were performing well.
 - Which customers contributed most to sales.
 - Where management could focus its sales and customer-retention efforts.
-- Which state should management consider in opening a physical office 
+- Which state should management consider in opening a physical office.
+
+   # DATASET
+
+the dataset used for this project is a sales transaction dataset containing informations about customer purchases and product orders.
+The dataset was used to analyze sales performance across customers,products,and states, with the goal of identifying purchasing patterns and 
+generating business insights.
+
+  Key Data Fields
+ The dataset contained fields relating to:
+ - Customer ID: Used to distinguish customers during analysis without publicly exposing personal identities.
+ - Product: Identifies the product purchased.
+ - States: Shows the location associated with the transaction.
+ - Quantity: Represents the quantity purchased in each transaction.
+ - Order/Sales information: Used to calculate and compare overall sales and order performance.
 
 # MY APPROACH
 I followed a structured data analysis process:
@@ -35,6 +49,9 @@ I followed a structured data analysis process:
 - Top 10 Customers
 - Comparison of sales performance across different business segments
 
+
+
+
 # DATA PRIVACY AND PII PROTECTION
 
 Because customer-related information was included in the original dataset, i treated privacy as an important part of the analysis.
@@ -56,6 +73,7 @@ Measures taken included:
 - Compared state performance
 
 # BUSINESS VALUE
+
 The dashboard provides management with a simple view of sales performance and customer activity insights.
 The insights can help the business:
 - Identify strong-performing states
